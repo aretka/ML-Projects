@@ -1,2 +1,2 @@
 # ML-Projects
-I post my first really basic ML projects here.
+I post my first ML projects here.
